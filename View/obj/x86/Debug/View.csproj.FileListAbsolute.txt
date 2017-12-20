@@ -1,0 +1,11 @@
+F:\TeCSInfractionManager\TeCSInfractionManager\View\bin\Debug\View.exe
+F:\TeCSInfractionManager\TeCSInfractionManager\View\bin\Debug\View.pdb
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\View.Properties.Resources.resources
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\View.exe
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\View.pdb
+F:\TeCSInfractionManager\TeCSInfractionManager\View\obj\x86\Debug\View.MainWindow.resources
+F:\TeCSInfractionManager\TeCSInfractionManager\View\bin\Debug\TeCSInfractionManager.dll
+F:\TeCSInfractionManager\TeCSInfractionManager\View\bin\Debug\TeCSInfractionManager.pdb
