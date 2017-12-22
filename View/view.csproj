@@ -77,11 +77,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TeCSInfractionManager\model.csproj">
-      <Project>{F7230B08-3FA7-4628-8796-846C76E142FA}</Project>
+    <ProjectReference Include="..\model\model.csproj">
+      <Project>{57713B95-9303-4783-83E8-35606F1CBF12}</Project>
       <Name>model</Name>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
-      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

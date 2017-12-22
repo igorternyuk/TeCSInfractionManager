@@ -1,0 +1,5 @@
+F:\TeCSInfractionManager\TeCSInfractionManager\model\bin\Debug\model.dll
+F:\TeCSInfractionManager\TeCSInfractionManager\model\bin\Debug\model.pdb
+F:\TeCSInfractionManager\TeCSInfractionManager\model\obj\Debug\ResolveAssemblyReference.cache
+F:\TeCSInfractionManager\TeCSInfractionManager\model\obj\Debug\model.dll
+F:\TeCSInfractionManager\TeCSInfractionManager\model\obj\Debug\model.pdb

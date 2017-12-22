@@ -1,5 +1,0 @@
-F:\TeCSInfractionManager\TeCSInfractionManager\TeCSInfractionManager\bin\Debug\TeCSInfractionManager.dll
-F:\TeCSInfractionManager\TeCSInfractionManager\TeCSInfractionManager\bin\Debug\TeCSInfractionManager.pdb
-F:\TeCSInfractionManager\TeCSInfractionManager\TeCSInfractionManager\obj\Debug\ResolveAssemblyReference.cache
-F:\TeCSInfractionManager\TeCSInfractionManager\TeCSInfractionManager\obj\Debug\TeCSInfractionManager.dll
-F:\TeCSInfractionManager\TeCSInfractionManager\TeCSInfractionManager\obj\Debug\TeCSInfractionManager.pdb
